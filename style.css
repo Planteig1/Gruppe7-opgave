@@ -1,20 +1,25 @@
+* {
+   padding: 1%;
+}
+
+
 section {
    display: flex;
-justify-content: space-around;
-
+   justify-content: space-evenly;
+   align-items: center;
 }
 
 
 .Yousaf{
-
+width: 33%;
 }
 
 .Anders{
-
+width: 33%;
 }
 
 .Rasmus{
-
+   width: 33%;
 }
 section img {
    width:200px;
