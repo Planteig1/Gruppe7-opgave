@@ -1,8 +1,10 @@
 section {
    display: flex;
-justify-content: space-evenly;
+justify-content: space-around;
 
 }
+
+
 .Yousaf{
 
 }
@@ -13,4 +15,8 @@ justify-content: space-evenly;
 
 .Rasmus{
 
+}
+section img {
+   width:200px;
+   heiht:200px;
 }
