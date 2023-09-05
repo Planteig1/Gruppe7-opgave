@@ -9,17 +9,25 @@ section {
    align-items: center;
 }
 
+.header {
+   height: 40px;
+}
+
 
 .Yousaf{
-width: 33%;
+   width: 33%;
+   background-color: skyblue;
+
 }
 
 .Anders{
 width: 33%;
+   background-color: dodgerblue;
 }
 
 .Rasmus{
    width: 33%;
+   background-color: royalblue;
 }
 section img {
    width:200px;
